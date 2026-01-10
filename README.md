@@ -23,7 +23,7 @@
 
 ## 📖 About Me
 
-<div style="font-size: 1.1em; line-height: 1.6;">
+<div style="font-size: 1.1em; line-height: 1.6">
 
 **Joseph Charles** — **Data Scientist & HPC Engineer** from **France** 🇫🇷
 
@@ -43,62 +43,10 @@ As a recent **Data Science graduate**, I focus on **Machine Learning**, **Deep L
 <tr>
 <td align="center" valign="top" style="padding: 15px; border: 1px solid #e1e5e9; border-radius: 8px; background: linear-gradient(135deg, #e8ecf0 0%, #f1f3f6 100%); box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
 
-### <span style="color: #1a365d; font-weight: 600; font-size: 1.1em;">💻 Languages</span>
-<p style="margin: 8px 0;">
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-<br><br>
-<img src="https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white" alt="Fortran" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash Script" />
-</p>
-
-</td>
-<td align="center" valign="top" style="padding: 15px; border: 1px solid #e1e5e9; border-radius: 8px; background: linear-gradient(135deg, #e8ecf0 0%, #f1f3f6 100%); box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
-
-### <span style="color: #1a365d; font-weight: 600; font-size: 1.1em;">🤖 Data Science & ML</span>
-<p style="margin: 8px 0;">
-<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
-<br><br>
-<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras" />
-</p>
-
-</td>
-<td align="center" valign="top" style="padding: 15px; border: 1px solid #e1e5e9; border-radius: 8px; background: linear-gradient(135deg, #e8ecf0 0%, #f1f3f6 100%); box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
-
-### <span style="color: #1a365d; font-weight: 600; font-size: 1.1em;">📊 Visualization</span>
-<p style="margin: 8px 0;">
-<img src="https://img.shields.io/badge/Matplotlib-%23f8f9fa.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
-</p>
-
-</td>
-</tr>
-<tr>
-<td align="center" valign="top" style="padding: 15px; border: 1px solid #e1e5e9; border-radius: 8px; background: linear-gradient(135deg, #e8ecf0 0%, #f1f3f6 100%); box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
-
-### <span style="color: #1a365d; font-weight: 600; font-size: 1.1em;">🔧 DevOps & Databases</span>
-<p style="margin: 8px 0;">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-<br><br>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" alt="SQL" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-</p>
-
-</td>
-<td align="center" valign="top" style="padding: 15px; border: 1px solid #e1e5e9; border-radius: 8px; background: linear-gradient(135deg, #e8ecf0 0%, #f1f3f6 100%); box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
-
-### <span style="color: #1a365d; font-weight: 600; font-size: 1.1em;">⚡ HPC & Performance</span>
-<p style="margin: 8px 0;">
+### <span style="color: #1a365d; font-weight: 600; font-size: 1.1em;">⚡ HPC</span>
+<p>
 <img src="https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green" alt="CUDA" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/OpenMP-009539?style=for-the-badge&logo=OpenMP&logoColor=white" alt="OpenMP" />
-<br><br>
 <img src="https://img.shields.io/badge/MPI-000000?style=for-the-badge&logo=MPI&logoColor=white" alt="MPI" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/OpenACC-8B5CF6?style=for-the-badge&logo=OpenACC&logoColor=white" alt="OpenACC" />
 </p>
@@ -106,8 +54,56 @@ As a recent **Data Science graduate**, I focus on **Machine Learning**, **Deep L
 </td>
 <td align="center" valign="top" style="padding: 15px; border: 1px solid #e1e5e9; border-radius: 8px; background: linear-gradient(135deg, #e8ecf0 0%, #f1f3f6 100%); box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
 
-<p style="margin: 8px 0;">
-  <img src="https://media.giphy.com/media/IcZhFmufozDCij3p22/giphy.gif" alt="Coding GIF" style="width: 100%; max-width: 100px; border-radius: 8px;" />
+### <span style="color: #1a365d; font-weight: 600; font-size: 1.1em;">📊 Visualization</span>
+<p>
+<img src="https://img.shields.io/badge/Matplotlib-%23f8f9fa.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
+</p>
+
+</td>
+<td align="center" valign="top" style="padding: 15px; border: 1px solid #e1e5e9; border-radius: 8px; background: linear-gradient(135deg, #e8ecf0 0%, #f1f3f6 100%); box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
+
+### <span style="color: #1a365d; font-weight: 600; font-size: 1.1em;">🤖 Data Science</span>
+<p>
+<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras" />
+</p>
+
+</td>
+</tr>
+<tr>
+<td align="center" valign="top" style="padding: 15px; border: 1px solid #e1e5e9; border-radius: 8px; background: linear-gradient(135deg, #e8ecf0 0%, #f1f3f6 100%); box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
+
+### <span style="color: #1a365d; font-weight: 600; font-size: 1.1em;">🔧 DevOps</span>
+<p>
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" alt="SQL" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+</p>
+
+</td>
+<td align="center" valign="top" style="padding: 15px; border: 1px solid #e1e5e9; border-radius: 8px; background: linear-gradient(135deg, #e8ecf0 0%, #f1f3f6 100%); box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
+
+### <span style="color: #1a365d; font-weight: 600; font-size: 1.1em;">💻 Languages</span>
+<p>
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white" alt="Fortran" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash Script" />
+</p>
+
+</td>
+<td align="center" valign="top" style="padding: 15px; border: 1px solid #e1e5e9; border-radius: 8px; background: linear-gradient(135deg, #e8ecf0 0%, #f1f3f6 100%); box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
+
+<p>
+  <img src="https://media.giphy.com/media/IcZhFmufozDCij3p22/giphy.gif" alt="Coding GIF" style="width: 50%; max-width: 100px; border-radius: 8px;" />
 </p>
 
 </td>
