@@ -17,13 +17,15 @@
   <a href="https://www.kaggle.com/jocharles"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>&nbsp;
 </p>
 
-<br>
+<div align="center" style="margin: 15px 0;">
+  <a href="https://www.josephcharles.fr" target="_blank" style="display: inline-block; padding: 14px 28px; background: linear-gradient(135deg, #1e3a8a 0%, #3b82f6 50%, #2563eb 100%); color: white; text-decoration: none; border-radius: 16px; font-weight: 700; font-size: 1.1em; letter-spacing: 0.5px; box-shadow: 0 8px 25px rgba(30, 58, 138, 0.4); transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1); position: relative; overflow: hidden;" onmouseover="this.style.transform='translateY(-3px) scale(1.02)'; this.style.boxShadow='0 15px 35px rgba(30, 58, 138, 0.6)'; this.style.background='linear-gradient(135deg, #2563eb 0%, #1d4ed8 50%, #1e40af 100%)';" onmouseout="this.style.transform='translateY(0) scale(1)'; this.style.boxShadow='0 8px 25px rgba(30, 58, 138, 0.4)'; this.style.background='linear-gradient(135deg, #1e3a8a 0%, #3b82f6 50%, #2563eb 100%)';">
+    <span style="position: relative; z-index: 2;">🌐 View My Professional Portfolio</span>
+  </a>
+</div>
 
 ## 📖 About Me
 
-<table style="width: 100%; border-collapse: collapse;">
-<tr>
-<td style="width: 60%; vertical-align: top; padding-right: 20px; font-size: 1.1em; line-height: 1.6;">
+<div style="font-size: 1.1em; line-height: 1.6;">
 
 **Joseph Charles** — **Data Scientist & HPC Engineer** from **France** 🇫🇷
 
@@ -33,14 +35,7 @@ As a recent **Data Science graduate**, I focus on **Machine Learning**, **Deep L
 
 🔍 **Actively seeking innovative collaborations** on projects that push the boundaries of data and computation.
 
-</td>
-<td style="width: 40%; vertical-align: top; text-align: center;">
-
-<img src="https://media.giphy.com/media/IcZhFmufozDCij3p22/giphy.gif" alt="Coding GIF" style="width: 100%; max-width: 350px; border-radius: 8px;" />
-
-</td>
-</tr>
-</table>
+</div>
 
 
 
@@ -80,7 +75,6 @@ As a recent **Data Science graduate**, I focus on **Machine Learning**, **Deep L
 ### <span style="color: #1a365d; font-weight: 600; font-size: 1.1em;">📊 Visualization</span>
 <p style="margin: 8px 0;">
 <img src="https://img.shields.io/badge/Matplotlib-%23f8f9fa.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
 </p>
 
@@ -111,22 +105,15 @@ As a recent **Data Science graduate**, I focus on **Machine Learning**, **Deep L
 </p>
 
 </td>
-<td align="center" valign="top" style="padding: 15px; border: none; background: transparent;">
+<td align="center" valign="top" style="padding: 15px; border: 1px solid #e1e5e9; border-radius: 8px; background: linear-gradient(135deg, #e8ecf0 0%, #f1f3f6 100%); box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
 
-<!-- Empty column for balance -->
+<p style="margin: 8px 0;">
+  <img src="https://media.giphy.com/media/IcZhFmufozDCij3p22/giphy.gif" alt="Coding GIF" style="width: 100%; max-width: 200px; border-radius: 8px;" />
+</p>
 
 </td>
 </tr>
 </table>
-
-
-## 🌐 Professional Website
-
-<p align="center">
-  <a href="https://www.josephcharles.fr" target="_blank">
-    <img src="public/images/demo-screenshot.png" alt="Site Joseph Charles - Portfolio Professionnel" width="60%" style="border-radius: 8px; box-shadow: 0 8px 25px rgba(30, 58, 138, 0.15);" />
-  </a>
-</p>
 
 ## 📊 GitHub Statistics
 
