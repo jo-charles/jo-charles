@@ -100,7 +100,7 @@ As a recent **Data Science graduate**, I focus on **Machine Learning**, **Deep L
 </p>
 
 </td>
-<td align="center" valign="top" style="padding: 15px; border: 1px solid #e1e5e9; border-radius: 8px; background: linear-gradient(135deg, #e8ecf0 0%, #f1f3f6 100%); box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
+<td align="center" valign="center" style="padding: 15px; border: 1px solid #e1e5e9; border-radius: 8px; background: linear-gradient(135deg, #e8ecf0 0%, #f1f3f6 100%); box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
 
 <p>
   <img src="https://media.giphy.com/media/IcZhFmufozDCij3p22/giphy.gif" alt="Coding GIF" style="width: 50%; max-width: 100px; border-radius: 8px;" />
