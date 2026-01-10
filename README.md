@@ -17,11 +17,9 @@
   <a href="https://www.kaggle.com/jocharles"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>&nbsp;
 </p>
 
-<div align="center" style="margin: 15px 0;">
-  <a href="https://www.josephcharles.fr" target="_blank" style="display: inline-block; padding: 14px 28px; background: linear-gradient(135deg, #1e3a8a 0%, #3b82f6 50%, #2563eb 100%); color: white; text-decoration: none; border-radius: 16px; font-weight: 700; font-size: 1.1em; letter-spacing: 0.5px; box-shadow: 0 8px 25px rgba(30, 58, 138, 0.4); transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1); position: relative; overflow: hidden;" onmouseover="this.style.transform='translateY(-3px) scale(1.02)'; this.style.boxShadow='0 15px 35px rgba(30, 58, 138, 0.6)'; this.style.background='linear-gradient(135deg, #2563eb 0%, #1d4ed8 50%, #1e40af 100%)';" onmouseout="this.style.transform='translateY(0) scale(1)'; this.style.boxShadow='0 8px 25px rgba(30, 58, 138, 0.4)'; this.style.background='linear-gradient(135deg, #1e3a8a 0%, #3b82f6 50%, #2563eb 100%)';">
-    <span style="position: relative; z-index: 2;">🌐 View My Professional Portfolio</span>
-  </a>
-</div>
+<p align="center" style="font-size: 1.4em;">
+  <a href="https://www.josephcharles.fr" target="_blank">🌐 View My Professional Portfolio</a>
+</p>
 
 ## 📖 About Me
 
@@ -75,6 +73,7 @@ As a recent **Data Science graduate**, I focus on **Machine Learning**, **Deep L
 ### <span style="color: #1a365d; font-weight: 600; font-size: 1.1em;">📊 Visualization</span>
 <p style="margin: 8px 0;">
 <img src="https://img.shields.io/badge/Matplotlib-%23f8f9fa.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
 </p>
 
@@ -114,9 +113,3 @@ As a recent **Data Science graduate**, I focus on **Machine Learning**, **Deep L
 </td>
 </tr>
 </table>
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=jo-charles&theme=github-dark-blue" alt="GitHub Streak" /></a>
-</p>
