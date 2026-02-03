@@ -27,15 +27,18 @@
 
 **Joseph Charles** — **Data Scientist & HPC Engineer** from **France** 🇫🇷
 
-I specialize in designing **scalable, data-driven solutions** for high-performance computing environments. My expertise bridges **software engineering**, **performance analysis**, and **data science** to tackle complex computational challenges at scale.
+I specialize in designing **scalable, data-driven solutions** for high-performance computing
+environments. My expertise bridges **software engineering**, **performance analysis**, and **data
+science** to tackle complex computational challenges at scale.
 
-As a recent **Data Science graduate**, I focus on **Machine Learning**, **Deep Learning**, and **Reinforcement Learning** using Python. Currently exploring **MLOps** to enhance model deployment capabilities.
+As a recent **Data Science graduate**, I focus on **Machine Learning**, **Deep Learning**, and
+**Reinforcement Learning** using Python. Currently exploring **MLOps** to enhance model deployment
+capabilities.
 
-🔍 **Actively seeking innovative collaborations** on projects that push the boundaries of data and computation.
+🔍 **Actively seeking innovative collaborations** on projects that push the boundaries of data and
+computation.
 
 </div>
-
-
 
 ## 🛠️ Technologies & Tools
 
@@ -104,3 +107,5 @@ As a recent **Data Science graduate**, I focus on **Machine Learning**, **Deep L
 </td>
 </tr>
 </table>
+
+![My GitHub Game](game.gif)
